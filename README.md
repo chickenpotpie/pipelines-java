@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/icedcoughy/demoproject/_apis/build/status/chickenpotpie.pipelines-java?branchName=master)](https://dev.azure.com/icedcoughy/demoproject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
